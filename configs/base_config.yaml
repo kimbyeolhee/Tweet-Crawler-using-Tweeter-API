@@ -1,0 +1,5 @@
+setting:
+  query : 고양이
+
+path:
+  output_path: "output.txt" 
